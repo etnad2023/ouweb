@@ -1,0 +1,141 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 24 Jun 2023 11:05:43 at http://localhost/bsu-open%20university/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/bsu-open%20university/ -O1 "C:\ouweb\ouweb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:37:19	Warning: 	Retry after error -4 (Incorrect length (5193684 Bytes, 7529146 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/06/DSC_0020.jpg (from localhost/bsu-open university/)
+11:37:42	Warning: 	Retry after error -4 (Incorrect length (5199524 Bytes, 6789052 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0242.jpg (from localhost/bsu-open university/)
+11:40:11	Warning: 	Retry after error -4 (Incorrect length (5178371 Bytes, 8071975 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0428.jpg (from localhost/bsu-open university/)
+11:41:04	Warning: 	Retry after error -4 (Incorrect length (5162413 Bytes, 7451884 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0057.jpg (from localhost/bsu-open university/)
+11:42:08	Warning: 	Retry after error -4 (Incorrect length (2956469 Bytes, 5899788 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0911.jpg (from localhost/bsu-open university/)
+12:12:15	Warning: 	Retry after error -4 (Incorrect length (5195423 Bytes, 6882610 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0022.jpg (from localhost/bsu-open university/)
+12:17:04	Warning: 	Moved Permanently for localhost/bsu-open university/?page_id=765
+12:17:04	Warning: 	File has moved from localhost/bsu-open university/?page_id=765 to http://localhost/bsu-open%20university/index.php/privacy-policy/
+12:17:11	Warning: 	Warning: store application/octet-stream without scan: C:/ouweb/ouweb/localhost/bsu-open university/wp-content/plugins/testimonial-slider-and-showcase/assets/images/skype.svg
+12:17:11	Warning: 	Warning: store application/octet-stream without scan: C:/ouweb/ouweb/localhost/bsu-open university/wp-content/plugins/testimonial-slider-and-showcase/assets/images/telegram.svg
+12:17:11	Error: 	"Not Found" (404) at link localhost/bsu-open university/wp-content/themes/atua/assets/vendors/css/owl.video.play.png (from localhost/bsu-open university/wp-content/themes/atua/assets/vendors/css/owl.carousel.min.css?ver=6.2.2)
+12:17:11	Error: 	"Not Found" (404) at link localhost/bsu-open university/wp-content/themes/atua/assets/images/icon-select.png (from localhost/bsu-open university/wp-content/themes/atua/assets/css/woo-styles.css?ver=6.2.2)
+12:17:11	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1761
+12:17:11	Warning: 	File has moved from localhost/bsu-open university/?p=1761 to http://localhost/bsu-open%20university/index.php/programs/
+12:17:11	Warning: 	Moved Permanently for localhost/BSU-Open University/?page_id=272
+12:17:11	Warning: 	File has moved from localhost/BSU-Open University/?page_id=272 to http://localhost/bsu-open%20university/index.php/programs-offered/master-in-community-development/
+12:17:48	Warning: 	Moved Permanently for localhost/BSU-Open University/index.php/home/programs-offered/master-in-urban-management/
+12:17:48	Warning: 	File has moved from localhost/BSU-Open University/index.php/home/programs-offered/master-in-urban-management/ to http://localhost/bsu-open%20university/index.php/programs-offered/master-in-urban-management/
+12:18:13	Warning: 	Moved Permanently for localhost/bsu-open university/?p=37
+12:18:13	Warning: 	File has moved from localhost/bsu-open university/?p=37 to http://localhost/bsu-open%20university/index.php/fees/
+12:18:19	Warning: 	Moved Permanently for localhost/bsu-open university/?p=22
+12:18:19	Warning: 	File has moved from localhost/bsu-open university/?p=22 to http://localhost/bsu-open%20university/index.php/admission-requirements/
+12:18:19	Warning: 	Moved Permanently for localhost/bsu-open university/?p=803
+12:18:19	Warning: 	File has moved from localhost/bsu-open university/?p=803 to http://localhost/bsu-open%20university/index.php/submission/
+12:18:19	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1223
+12:18:19	Warning: 	File has moved from localhost/bsu-open university/?p=1223 to http://localhost/bsu-open%20university/index.php/new-student/
+12:18:30	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1226
+12:18:30	Warning: 	File has moved from localhost/bsu-open university/?p=1226 to http://localhost/bsu-open%20university/index.php/continuing-student/
+12:18:30	Error: 	"Bad Request" (400) at link localhost/bsu-open university/index.php/wp-json/tribe/views/v2/html (from localhost/bsu-open university/index.php/events/)
+12:18:30	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/list/ (from localhost/bsu-open university/index.php/events/)
+12:18:30	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/month/ (from localhost/bsu-open university/index.php/events/)
+12:18:30	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/today/ (from localhost/bsu-open university/index.php/events/)
+12:18:30	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/list/?pagename=events&eventDisplay=past (from localhost/bsu-open university/index.php/events/)
+12:18:30	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/list/?pagename=events (from localhost/bsu-open university/index.php/events/)
+12:18:43	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/list/?ical=1 (from localhost/bsu-open university/index.php/events/)
+12:18:43	Error: 	"Not Found" (404) at link localhost/bsu-open university/events/list/?outlook-ical=1 (from localhost/bsu-open university/index.php/events/)
+12:18:43	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1428
+12:18:43	Warning: 	File has moved from localhost/bsu-open university/?p=1428 to http://localhost/bsu-open%20university/index.php/my-calendar/
+12:18:43	Warning: 	Moved Permanently for localhost/bsu-open university/?p=243
+12:18:43	Warning: 	File has moved from localhost/bsu-open university/?p=243 to http://localhost/bsu-open%20university/index.php/downloads/
+12:18:43	Warning: 	Retry after error -4 (Incorrect length (5194576 Bytes, 6833983 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/OU-Brochure.pdf (from localhost/bsu-open university/index.php/downloads/)
+12:18:44	Warning: 	Moved Permanently for localhost/bsu-open university/?p=323
+12:18:44	Warning: 	File has moved from localhost/bsu-open university/?p=323 to http://localhost/bsu-open%20university/index.php/lms-portal/
+12:18:44	Warning: 	Moved Permanently for localhost/bsu-open university/?p=12
+12:18:44	Warning: 	File has moved from localhost/bsu-open university/?p=12 to http://localhost/bsu-open%20university/index.php/about/
+12:18:44	Warning: 	Retry after error -4 (Incorrect length (6066698 Bytes, 7529146 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/06/DSC_0020.jpg (from localhost/bsu-open university/)
+12:21:37	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1831
+12:21:37	Warning: 	File has moved from localhost/bsu-open university/?p=1831 to http://localhost/bsu-open%20university/index.php/2023/06/21/is-open-university-the-right-choice-for-your-career-goals-find-out-here/
+12:21:45	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1834
+12:21:45	Warning: 	File has moved from localhost/bsu-open university/?p=1834 to http://localhost/bsu-open%20university/index.php/2023/06/21/the-benefits-of-e-learning-for-working-professionals-2/
+12:21:45	Warning: 	Retry after error -4 (Incorrect length (6071479 Bytes, 8071975 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0428.jpg (from localhost/bsu-open university/)
+12:22:39	Warning: 	Moved Permanently for localhost/bsu-open university/?p=15
+12:22:39	Warning: 	File has moved from localhost/bsu-open university/?p=15 to http://localhost/bsu-open%20university/index.php/programs-offered/
+12:22:39	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1284
+12:22:39	Warning: 	File has moved from localhost/bsu-open university/?p=1284 to http://localhost/bsu-open%20university/index.php/bsu-open-university-faculty/
+12:22:39	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1314
+12:22:39	Warning: 	File has moved from localhost/bsu-open university/?p=1314 to http://localhost/bsu-open%20university/index.php/alumni/
+12:22:39	Warning: 	Retry after error -4 (Incorrect length (5192769 Bytes, 6958306 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0872.jpg (from localhost/bsu-open university/index.php/alumni/)
+12:23:08	Warning: 	Retry after error -4 (Incorrect length (5193277 Bytes, 7280876 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0882.jpg (from localhost/bsu-open university/index.php/alumni/)
+12:23:18	Warning: 	Retry after error -4 (Incorrect length (3037567 Bytes, 5759991 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0874.jpg (from localhost/bsu-open university/index.php/alumni/)
+12:25:40	Warning: 	Retry after error -4 (Incorrect length (3033976 Bytes, 6419290 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0879.jpg (from localhost/bsu-open university/index.php/alumni/)
+12:27:08	Warning: 	Retry after error -4 (Incorrect length (3032357 Bytes, 5681210 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0880.jpg (from localhost/bsu-open university/index.php/alumni/)
+12:27:25	Warning: 	Retry after error -4 (Incorrect length (5192331 Bytes, 6895239 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0885.jpg (from localhost/bsu-open university/index.php/alumni/)
+12:28:01	Warning: 	Retry after error -4 (Incorrect length (3032397 Bytes, 5949815 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0897.jpg (from localhost/bsu-open university/index.php/alumni/)
+12:28:45	Warning: 	Retry after error -4 (Incorrect length (3032668 Bytes, 6386374 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0902.jpg (from localhost/bsu-open university/index.php/alumni/)
+12:30:23	Warning: 	Retry after error -4 (Incorrect length (3033345 Bytes, 5557575 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0906.jpg (from localhost/bsu-open university/index.php/alumni/)
+12:31:07	Warning: 	Retry after error -4 (Incorrect length (3046050 Bytes, 6239704 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0923.jpg (from localhost/bsu-open university/index.php/alumni/)
+12:32:01	Warning: 	Retry after error -4 (Incorrect length (3030592 Bytes, 6432255 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0858.jpg (from localhost/bsu-open university/index.php/alumni/)
+12:32:44	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1881
+12:32:44	Warning: 	File has moved from localhost/bsu-open university/?p=1881 to http://localhost/bsu-open%20university/index.php/student-success/
+12:32:44	Warning: 	Retry after error -4 (Incorrect length (3032794 Bytes, 6117218 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_1144.jpg (from localhost/bsu-open university/index.php/student-success/)
+12:33:28	Warning: 	Retry after error -4 (Incorrect length (3043738 Bytes, 5525117 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0597.jpg (from localhost/bsu-open university/index.php/student-success/)
+13:06:07	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1838
+13:06:07	Warning: 	File has moved from localhost/bsu-open university/?p=1838 to http://localhost/bsu-open%20university/index.php/terms-of-service/
+13:06:07	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1619
+13:06:07	Warning: 	File has moved from localhost/bsu-open university/?p=1619 to http://localhost/bsu-open%20university/index.php/2023/06/15/what-isthe-difference-between-a-thesis-non-thesis-masters-program/
+13:06:08	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1511
+13:06:08	Warning: 	File has moved from localhost/bsu-open university/?p=1511 to http://localhost/bsu-open%20university/index.php/faq/
+13:06:13	Error: 	"Forbidden" (403) at link localhost/bsu-open university/chrome-extension:// (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+13:06:13	Error: 	"Forbidden" (403) at link localhost/bsu-open university/^([^:/? (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+13:06:13	Error: 	"Not Found" (404) at link localhost/bsu-open university/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+13:06:13	Error: 	"Not Found" (404) at link localhost/bsu-open university/GET (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+13:06:13	Error: 	"Not Found" (404) at link localhost/bsu-open university/dialog/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+13:06:13	Error: 	"Not Found" (404) at link localhost/bsu-open university/LiveChatEvent/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+13:06:16	Warning: 	Moved Permanently for localhost/bsu-open university/?p=276
+13:06:16	Warning: 	File has moved from localhost/bsu-open university/?p=276 to http://localhost/bsu-open%20university/index.php/programs-offered/master-in-community-health-development/
+13:06:16	Warning: 	Moved Permanently for localhost/bsu-open university/?p=278
+13:06:16	Warning: 	File has moved from localhost/bsu-open university/?p=278 to http://localhost/bsu-open%20university/index.php/programs-offered/master-in-cooperative-management/
+13:06:16	Warning: 	Moved Permanently for localhost/bsu-open university/?p=281
+13:06:16	Warning: 	File has moved from localhost/bsu-open university/?p=281 to http://localhost/bsu-open%20university/index.php/programs-offered/master-in-development-communication/
+13:06:16	Error: 	"Not Found" (404) at link localhost/BSU-Open University/index.php/2023/03/21/master-in-community-development/ (from localhost/BSU-Open University/index.php/programs-offered/master-in-development-communication/)
+13:06:16	Warning: 	Moved Permanently for localhost/bsu-open university/?p=284
+13:06:16	Warning: 	File has moved from localhost/bsu-open university/?p=284 to http://localhost/bsu-open%20university/index.php/programs-offered/master-in-human-resource-management/
+13:06:19	Warning: 	Moved Permanently for localhost/bsu-open university/?p=286
+13:06:19	Warning: 	File has moved from localhost/bsu-open university/?p=286 to http://localhost/bsu-open%20university/index.php/programs-offered/master-in-non-formal-education/
+13:06:19	Warning: 	Moved Permanently for localhost/bsu-open university/?p=361
+13:06:19	Warning: 	File has moved from localhost/bsu-open university/?p=361 to http://localhost/bsu-open%20university/index.php/programs-offered/diploma-in-training-management/
+13:06:19	Error: 	"Not Found" (404) at link localhost/bsu-open university/wp-content/uploads/2023/03/DTM-1-1.pdf (from localhost/bsu-open university/index.php/programs-offered/diploma-in-training-management/)
+13:06:19	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1847
+13:06:19	Warning: 	File has moved from localhost/bsu-open university/?p=1847 to http://localhost/bsu-open%20university/index.php/2023/06/21/breaking-down-the-myths-around-online-learning-and-open-universities/
+13:06:19	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1629
+13:06:19	Warning: 	File has moved from localhost/bsu-open university/?p=1629 to http://localhost/bsu-open%20university/index.php/2023/06/15/8-advantages-of-obtaining-a-masters-degree/
+13:06:19	Warning: 	Moved Permanently for localhost/bsu-open university/?p=44
+13:06:19	Warning: 	File has moved from localhost/bsu-open university/?p=44 to http://localhost/bsu-open%20university/index.php/contact-us/
+13:06:19	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1469
+13:06:19	Warning: 	File has moved from localhost/bsu-open university/?p=1469 to http://localhost/bsu-open%20university/index.php/event/1st-semester-s-y-2023-2024/
+13:06:25	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1471
+13:06:25	Warning: 	File has moved from localhost/bsu-open university/?p=1471 to http://localhost/bsu-open%20university/index.php/event/2nd-semester/
+13:06:25	Warning: 	Retry after error -4 (Incorrect length (3909379 Bytes, 5759991 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0874.jpg (from localhost/bsu-open university/index.php/alumni/)
+13:06:26	Warning: 	Retry after error -4 (Incorrect length (3906549 Bytes, 6419290 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0879.jpg (from localhost/bsu-open university/index.php/alumni/)
+13:08:12	Warning: 	Retry after error -4 (Incorrect length (5398184 Bytes, 5681210 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0880.jpg (from localhost/bsu-open university/index.php/alumni/)
+13:08:47	Warning: 	Retry after error -4 (Incorrect length (3905197 Bytes, 5949815 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0897.jpg (from localhost/bsu-open university/index.php/alumni/)
+13:08:58	Warning: 	Retry after error -4 (Incorrect length (3905373 Bytes, 6386374 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0902.jpg (from localhost/bsu-open university/index.php/alumni/)
+13:11:20	Warning: 	Retry after error -4 (Incorrect length (3906445 Bytes, 5557575 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0906.jpg (from localhost/bsu-open university/index.php/alumni/)
+13:11:25	Warning: 	Retry after error -4 (Incorrect length (3918762 Bytes, 6239704 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0923.jpg (from localhost/bsu-open university/index.php/alumni/)
+13:13:29	Warning: 	Retry after error -4 (Incorrect length (3318413 Bytes, 6117218 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_1144.jpg (from localhost/bsu-open university/index.php/student-success/)
+13:13:46	Warning: 	Retry after error -4 (Incorrect length (3940608 Bytes, 5525117 expected)) at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0597.jpg (from localhost/bsu-open university/index.php/student-success/)
+13:14:18	Warning: 	Moved Permanently for localhost/bsu-open university/?p=765
+13:14:18	Warning: 	File has moved from localhost/bsu-open university/?p=765 to http://localhost/bsu-open%20university/index.php/privacy-policy/
+13:14:18	Warning: 	Moved Permanently for localhost/bsu-open university/?p=272
+13:14:18	Warning: 	File has moved from localhost/bsu-open university/?p=272 to http://localhost/bsu-open%20university/index.php/programs-offered/master-in-community-development/
+13:14:18	Warning: 	Moved Permanently for localhost/bsu-open university/?p=288
+13:14:18	Warning: 	File has moved from localhost/bsu-open university/?p=288 to http://localhost/bsu-open%20university/index.php/programs-offered/master-in-urban-management/
+13:14:18	Error: 	"Not Found" (404) at link localhost/BSU-Open University/index.php/2023/03/21/master-in-non-formal-education/ (from localhost/bsu-open university/index.php/programs-offered/master-in-urban-management/)
+13:14:18	Warning: 	Moved Permanently for localhost/bsu-open university/?p=1466
+13:14:18	Warning: 	File has moved from localhost/bsu-open university/?p=1466 to http://localhost/bsu-open%20university/index.php/event/midyear-term-s-y-2023-2024/
+13:14:18	Error: 	"Incorrect length (4779172 Bytes, 6419290 expected)" (-4) after 2 retries at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0879.jpg (from localhost/bsu-open university/index.php/alumni/)
+13:14:18	Error: 	"Incorrect length (4777431 Bytes, 6386374 expected)" (-4) after 2 retries at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0902.jpg (from localhost/bsu-open university/index.php/alumni/)
+13:15:25	Error: 	"Incorrect length (4791663 Bytes, 6239704 expected)" (-4) after 2 retries at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_0923.jpg (from localhost/bsu-open university/index.php/alumni/)
+13:15:50	Error: 	"Incorrect length (4483040 Bytes, 6117218 expected)" (-4) after 2 retries at link localhost/bsu-open university/wp-content/uploads/2023/05/DSC_1144.jpg (from localhost/bsu-open university/index.php/student-success/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 10 minutes 29 seconds : 425 links scanned, 333 files written (127567773 bytes overall) [146515490 bytes received at 18714 bytes/sec], 328369 bytes transferred using HTTP compression in 1 files, ratio 28%, 2.8 requests per connection
+(23 errors, 107 warnings, 0 messages)
